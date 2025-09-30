@@ -1,0 +1,101 @@
+transaction_id,transaction_date,customer_id,age,gender,nationality,location,loyalty_tier,product_category,quantity,sales_amount
+T10000,2025-07-14,C1034,39,Male,Other,Ras Al Khaimah,None,Grocery,3,85.45
+T10001,2025-09-29,C1032,20,Male,UK,Ras Al Khaimah,Gold,Clothing,2,149.13
+T10002,2025-07-04,C1058,48,Male,UK,Abu Dhabi,Silver,Electronics,1,1248.78
+T10003,2025-04-17,C1004,52,Female,India,Ajman,None,Grocery,1,72.26
+T10004,2025-07-18,C1041,31,Male,Other,Ras Al Khaimah,Silver,Grocery,1,24.91
+T10005,2025-06-13,C1038,29,Male,Pakistan,Dubai,Platinum,Clothing,1,134.31
+T10006,2025-04-23,C1057,51,Male,UAE,Ras Al Khaimah,None,Grocery,3,218.27
+T10007,2025-07-14,C1040,30,Male,UK,Abu Dhabi,Silver,Clothing,1,136.77
+T10008,2025-08-02,C1027,16,Male,India,Dubai,None,Grocery,3,91.06
+T10009,2025-06-16,C1006,42,Male,UAE,Abu Dhabi,None,Grocery,4,121.0
+T10010,2025-06-29,C1008,16,Female,Egypt,Abu Dhabi,Silver,Home & Living,2,689.81
+T10011,2025-07-28,C1007,61,Male,Pakistan,Sharjah,Silver,Grocery,4,96.91
+T10012,2025-07-11,C1011,43,Male,Other,Abu Dhabi,Silver,Grocery,3,198.31
+T10013,2025-07-15,C1033,49,Female,UAE,Ajman,None,Electronics,3,850.54
+T10014,2025-09-01,C1032,20,Male,UK,Ras Al Khaimah,Gold,Grocery,1,13.52
+T10015,2025-08-11,C1047,50,Female,UAE,Ras Al Khaimah,Silver,Clothing,1,186.6
+T10016,2025-08-30,C1054,34,Female,India,Ras Al Khaimah,Platinum,Electronics,1,724.36
+T10017,2025-05-25,C1022,52,Male,Egypt,Ajman,None,Grocery,1,4.12
+T10018,2025-04-04,C1023,39,Male,UK,Sharjah,Silver,Electronics,1,396.33
+T10019,2025-06-29,C1036,30,Female,Other,Ajman,None,Clothing,5,2.0
+T10020,2025-09-07,C1034,39,Male,Other,Ras Al Khaimah,None,Grocery,3,173.14
+T10021,2025-05-10,C1043,47,Female,UAE,Ras Al Khaimah,None,Clothing,1,55.0
+T10022,2025-08-10,C1039,16,Female,UAE,Ajman,None,Clothing,1,2.0
+T10023,2025-04-23,C1021,45,Female,Egypt,Ras Al Khaimah,None,Pharmacy,1,20.91
+T10024,2025-09-10,C1026,33,Male,India,Dubai,Platinum,Grocery,2,54.01
+T10025,2025-05-30,C1034,39,Male,Other,Ras Al Khaimah,None,Clothing,3,385.42
+T10026,2025-04-24,C1000,18,Male,Egypt,Sharjah,None,Pharmacy,1,58.2
+T10027,2025-06-30,C1034,39,Male,Other,Ras Al Khaimah,None,Clothing,2,344.01
+T10028,2025-05-21,C1036,30,Female,Other,Ajman,None,Grocery,4,2.0
+T10029,2025-05-31,C1046,53,Male,Saudi Arabia,Dubai,Silver,Pharmacy,4,108.78
+T10030,2025-09-19,C1013,41,Female,Other,Sharjah,Gold,Grocery,1,51.89
+T10031,2025-04-17,C1002,34,Male,UAE,Abu Dhabi,None,Electronics,1,1607.7
+T10032,2025-09-24,C1000,18,Male,Egypt,Sharjah,None,Grocery,6,2.0
+T10033,2025-05-23,C1004,52,Female,India,Ajman,None,Grocery,2,179.81
+T10034,2025-07-19,C1025,39,Male,Pakistan,Ras Al Khaimah,None,Home & Living,1,190.42
+T10035,2025-05-27,C1054,34,Female,India,Ras Al Khaimah,Platinum,Grocery,2,104.65
+T10036,2025-06-05,C1013,41,Female,Other,Sharjah,Gold,Clothing,1,139.27
+T10037,2025-08-11,C1038,29,Male,Pakistan,Dubai,Platinum,Clothing,1,11.4
+T10038,2025-05-23,C1026,33,Male,India,Dubai,Platinum,Grocery,2,61.62
+T10039,2025-08-15,C1008,16,Female,Egypt,Abu Dhabi,Silver,Clothing,1,2.0
+T10040,2025-04-23,C1014,46,Female,UAE,Ajman,Gold,Electronics,1,449.15
+T10041,2025-06-14,C1014,46,Female,UAE,Ajman,Gold,Clothing,2,203.09
+T10042,2025-09-16,C1025,39,Male,Pakistan,Ras Al Khaimah,None,Home & Living,1,220.21
+T10043,2025-04-20,C1041,31,Male,Other,Ras Al Khaimah,Silver,Grocery,3,36.85
+T10044,2025-08-12,C1059,45,Female,UAE,Ras Al Khaimah,Gold,Grocery,2,97.63
+T10045,2025-06-30,C1012,35,Female,Saudi Arabia,Abu Dhabi,None,Pharmacy,3,114.22
+T10046,2025-06-01,C1050,40,Female,UAE,Abu Dhabi,Silver,Clothing,2,354.7
+T10047,2025-04-16,C1031,81,Male,India,Dubai,None,Electronics,1,599.08
+T10048,2025-04-11,C1038,29,Male,Pakistan,Dubai,Platinum,Grocery,1,77.44
+T10049,2025-07-01,C1048,41,Female,Egypt,Sharjah,Gold,Grocery,1,26.26
+T10050,2025-05-25,C1051,40,Male,Pakistan,Ras Al Khaimah,None,Electronics,2,336.9
+T10051,2025-08-10,C1031,81,Male,India,Dubai,None,Clothing,6,950.57
+T10052,2025-06-25,C1003,16,Female,Egypt,Ras Al Khaimah,None,Grocery,3,126.3
+T10053,2025-07-03,C1029,20,Female,India,Dubai,Gold,Grocery,2,26.13
+T10054,2025-07-22,C1036,30,Female,Other,Ajman,None,Grocery,5,262.63
+T10055,2025-09-21,C1022,52,Male,Egypt,Ajman,None,Electronics,1,501.35
+T10056,2025-04-10,C1038,29,Male,Pakistan,Dubai,Platinum,Clothing,3,493.07
+T10057,2025-09-24,C1044,40,Male,India,Dubai,None,Grocery,1,32.75
+T10058,2025-05-07,C1014,46,Female,UAE,Ajman,Gold,Clothing,2,175.92
+T10059,2025-06-22,C1042,60,Male,Egypt,Dubai,None,Grocery,1,24.06
+T10060,2025-09-13,C1028,22,Female,UAE,Sharjah,Silver,Pharmacy,1,42.92
+T10061,2025-05-22,C1035,16,Female,Saudi Arabia,Ajman,Gold,Grocery,3,86.85
+T10062,2025-07-15,C1012,35,Female,Saudi Arabia,Abu Dhabi,None,Grocery,4,146.48
+T10063,2025-08-12,C1031,81,Male,India,Dubai,None,Home & Living,3,370.97
+T10064,2025-04-04,C1006,42,Male,UAE,Abu Dhabi,None,Grocery,1,45.36
+T10065,2025-08-14,C1058,48,Male,UK,Abu Dhabi,Silver,Grocery,1,44.88
+T10066,2025-05-26,C1050,40,Female,UAE,Abu Dhabi,Silver,Electronics,1,857.86
+T10067,2025-07-17,C1021,45,Female,Egypt,Ras Al Khaimah,None,Pharmacy,3,2.0
+T10068,2025-04-06,C1027,16,Male,India,Dubai,None,Grocery,2,63.06
+T10069,2025-05-26,C1001,29,Female,UAE,Ajman,None,Pharmacy,3,57.83
+T10070,2025-08-26,C1041,31,Male,Other,Ras Al Khaimah,Silver,Clothing,4,129.83
+T10071,2025-05-16,C1044,40,Male,India,Dubai,None,Pharmacy,1,45.73
+T10072,2025-09-11,C1056,16,Female,Philippines,Abu Dhabi,Silver,Grocery,2,9.59
+T10073,2025-04-16,C1052,29,Female,Saudi Arabia,Abu Dhabi,Silver,Grocery,2,175.03
+T10074,2025-07-06,C1005,47,Male,UAE,Ras Al Khaimah,Silver,Clothing,2,226.5
+T10075,2025-05-20,C1027,16,Male,India,Dubai,None,Clothing,2,198.77
+T10076,2025-04-17,C1027,16,Male,India,Dubai,None,Clothing,4,1082.11
+T10077,2025-05-12,C1043,47,Female,UAE,Ras Al Khaimah,None,Grocery,1,23.04
+T10078,2025-06-23,C1043,47,Female,UAE,Ras Al Khaimah,None,Grocery,4,82.0
+T10079,2025-07-22,C1019,46,Female,UK,Ras Al Khaimah,None,Electronics,2,254.46
+T10080,2025-05-25,C1029,20,Female,India,Dubai,Gold,Pharmacy,2,2.0
+T10081,2025-04-26,C1010,24,Female,India,Sharjah,None,Grocery,1,31.03
+T10082,2025-09-03,C1057,51,Male,UAE,Ras Al Khaimah,None,Clothing,2,230.72
+T10083,2025-08-04,C1054,34,Female,India,Ras Al Khaimah,Platinum,Pharmacy,1,30.75
+T10084,2025-05-13,C1027,16,Male,India,Dubai,None,Grocery,2,15.27
+T10085,2025-09-06,C1024,33,Female,Saudi Arabia,Sharjah,Platinum,Clothing,3,220.22
+T10086,2025-04-17,C1038,29,Male,Pakistan,Dubai,Platinum,Grocery,1,17.08
+T10087,2025-05-17,C1032,20,Male,UK,Ras Al Khaimah,Gold,Pharmacy,3,145.23
+T10088,2025-06-06,C1000,18,Male,Egypt,Sharjah,None,Grocery,1,61.61
+T10089,2025-06-30,C1056,16,Female,Philippines,Abu Dhabi,Silver,Pharmacy,1,64.46
+T10090,2025-06-12,C1026,33,Male,India,Dubai,Platinum,Electronics,2,1008.02
+T10091,2025-04-11,C1056,16,Female,Philippines,Abu Dhabi,Silver,Grocery,2,96.72
+T10092,2025-06-29,C1051,40,Male,Pakistan,Ras Al Khaimah,None,Home & Living,1,174.9
+T10093,2025-08-09,C1012,35,Female,Saudi Arabia,Abu Dhabi,None,Grocery,1,57.46
+T10094,2025-08-16,C1040,30,Male,UK,Abu Dhabi,Silver,Clothing,2,410.33
+T10095,2025-06-04,C1002,34,Male,UAE,Abu Dhabi,None,Grocery,4,213.97
+T10096,2025-08-19,C1038,29,Male,Pakistan,Dubai,Platinum,Clothing,1,148.88
+T10097,2025-06-22,C1005,47,Male,UAE,Ras Al Khaimah,Silver,Grocery,2,60.62
+T10098,2025-08-16,C1007,61,Male,Pakistan,Sharjah,Silver,Clothing,2,156.38
+T10099,2025-09-12,C1026,33,Male,India,Dubai,Platinum,Grocery,3,126.88
